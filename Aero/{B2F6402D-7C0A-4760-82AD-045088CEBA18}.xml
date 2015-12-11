@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<configuration date="2015/12/10" author="e.World Technology Ltd.">
+<project id="{B2F6402D-7C0A-4760-82AD-045088CEBA18}" file="C:\Users\Demian\Documents\PHPMaker\Projects\project2.pmp" name="Aero" product="PHPMaker" version="12.0" datetime="2015/12/10 21:29:50" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0">
+<table id="air_port" name="air_port" caption="air port" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="airplane" name="airplane" caption="airplane" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="autit_trail" name="autit_trail" caption="autit trail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="baggage" name="baggage" caption="baggage" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="bank" name="bank" caption="bank" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,111" priv="1"/>
+<table id="bank_account" name="bank_account" caption="bank account" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,111" priv="1"/>
+<table id="boarding" name="boarding" caption="boarding" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="card" name="card" caption="card" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,111;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="card_type" name="card_type" caption="card type" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="conciliation" name="conciliation" caption="conciliation" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,104" priv="1"/>
+<table id="flight" name="flight" caption="flight" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="passanger" name="passanger" caption="passanger" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="passanger_type" name="passanger_type" caption="passanger type" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="pay_type" name="pay_type" caption="pay type" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="PrincipalContact_php" name="PrincipalContact.php" caption="PrincipalContact" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalDestinations_php" name="PrincipalDestinations.php" caption="PrincipalDestinations" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalHome_php" name="PrincipalHome.php" caption="Home" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalLocations_php" name="PrincipalLocations.php" caption="PrincipalLocations" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalNews_php" name="PrincipalNews.php" caption="PrincipalNews" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalOrganization_php" name="PrincipalOrganization.php" caption="Organization" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalOurOffices_php" name="PrincipalOurOffices.php" caption="PrincipalOurOffices" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalRecomendations_php" name="PrincipalRecomendations.php" caption="PrincipalRecomendations" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="PrincipalRecurrentAnswers_php" name="PrincipalRecurrentAnswers.php" caption="PrincipalRecurrentAnswers" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,8;1,&quot;Conciliator&quot;,8" priv="1"/>
+<table id="ReportePrueba" name="ReportePrueba" caption="Reporte Prueba" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="reservation" name="reservation" caption="reservation" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,104;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="reservation_status" name="reservation_status" caption="reservation status" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="transference" name="transference" caption="transference" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="upload_file" name="upload_file" caption="upload file" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,105" priv="1"/>
+<table id="upload_file_detail" name="upload_file_detail" caption="upload file detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,104" priv="1"/>
+<table id="upload_file_detail_status" name="upload_file_detail_status" caption="upload file detail status" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="upload_file_status" name="upload_file_status" caption="upload file status" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="user" name="user" caption="user" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,44;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="user_level_permissions" name="user_level_permissions" caption="user level permissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="user_levels" name="user_levels" caption="user levels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="view2" name="view2" caption="view 2" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+<table id="PrincipalPassangerServices" name="PrincipalPassangerServices" caption="PassangerServices" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,0;1,&quot;Conciliator&quot;,0" priv="1"/>
+</project></configuration>
